@@ -46,6 +46,16 @@ Welcome to my GitHub profile! I'm a passionate software developer and security c
 
 
 <div style="text-align: center;">
+    <b>Security Tools</b>
+    <br><br>
+  <img src="https://img.shields.io/badge/-OWASP%20ZAP-2C3E50?style=flat-square&logo=owasp-zap&logoColor=white" alt="OWASP ZAP">
+  <img src="https://img.shields.io/badge/-Apache%20JMeter-E91F76?style=flat-square&logo=jmeter&logoColor=white" alt="Apache JMeter">
+   <img src="https://img.shields.io/badge/-Nessus-4E9BCD?style=flat-square&logo=Nessus-4E9BCD?style=flat-square&logo=nessus&logoColor=white" alt="Nessus">
+  <br><br>
+</div>
+
+
+<div style="text-align: center;">
     <b>Cloud Platforms</b>
     <br><br>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
