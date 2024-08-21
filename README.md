@@ -84,8 +84,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and security c
 I'm a developer with a deep interest in application security and cloud computing. I enjoy learning about new security practices and cloud technologies, and I'm always eager to apply this knowledge to my personal projects.
 
 ## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/miguel-s-54b5a0322/)
 - [Email](vimsaldev@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
